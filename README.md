@@ -2,9 +2,11 @@
 
 <br/>
 
-- 🧬💻 biomedical engineer passionate about computer vision in healthcare
+- 🧬 💻 biomedical engineer passionate about computer vision in healthcare
   
-- 🧠🦷 currently working on Machine Learning / Artificial Intelligence for Dentisrty 
+- 🧠 🦷 currently working on Machine Learning / Artificial Intelligence for Dentisrty
+
+- 📫 🚀 let's connect on https://www.linkedin.com/in/riccardo-gassino-77182ab6/
 
 <br/>
 
