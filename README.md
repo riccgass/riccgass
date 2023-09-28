@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, this is Riccardo Gassino's GitHub!
+### Hi there 👋, this is Riccardo Gassino's GitHub!
 
 <br/>
 
